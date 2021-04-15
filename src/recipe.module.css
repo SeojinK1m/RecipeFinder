@@ -11,10 +11,11 @@
     text-align: center;
     color: black;
     text-decoration: none;
+    opacity: 0.8;
 }
 
 .recipe:hover {
-    opacity: 0.8;
+    opacity: 1;
     transition: 0.3s;
 }
 
