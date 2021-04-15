@@ -1,0 +1,28 @@
+.recipe {
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px darkgray;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    min-width: 25%;
+    max-width: 33%;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+.recipe:hover {
+    opacity: 70%;
+    transition: 0.3s;
+}
+
+.ingredient {
+    margin: 0;
+    padding: 0;
+}
+
+.image {
+    margin-top: 30px;
+}
