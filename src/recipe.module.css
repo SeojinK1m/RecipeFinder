@@ -14,7 +14,7 @@
 }
 
 .recipe:hover {
-    opacity: 70%;
+    opacity: 80%;
     transition: 0.3s;
 }
 
